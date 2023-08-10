@@ -19,3 +19,4 @@ Where to find the news stories' links in this dataset?
 6. Location of he set of URLs collected from Alarabiya.com: Dataset/alarabiya_sitemap_links_set.txt
 7. Location of he set of URLs collected from arabnews.com: Dataset/arabnews_sitemap_links_set.txt
 
+This dataset is presented and studeied in a <a href='https://ws-dl.blogspot.com/2023/08/2023-08-10-collecting-15-million.html'>blog post</a> on WS-DL research group blogs site.
